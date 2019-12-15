@@ -1,5 +1,5 @@
 /*
- * stm32f44re_usart_driver.h
+ * stm32f446re_uart4_tx_driver.h
  *
  *  Created on: 11 Ara 2019
  *      Author: acakbudak
